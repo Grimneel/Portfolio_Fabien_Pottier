@@ -51,26 +51,67 @@
                     </div>
                 </div>
             </div>
+
             <div class="section2 p-5 mx-5">
                 <h3>Skills</h3>
-                <div class="progress-container">
-                    <h4>HTML</h4>
-                    <div class="progress-bar">
-                        <span data-width="80%">80%</span>
+                    <h4 class="m-3">HTML</h4>
+                    <div class="container m-3">
+                        <div class="progress-bar-html"></div>
+                    </div>
+                    <h4 class="m-3">CSS</h4>
+                    <div class="container m-3">
+                        <div class="progress-bar-css"></div>
+                    </div>
+                    <h4 class="m-3">Javascript</h4>
+                    <div class="container m-3">
+                        <div class="progress-bar-js"></div>
+                    </div>
+            </div>
+
+            <div class="section3 p-5 mx-5">
+                <h3 class="mb-5">Projets</h3>
+                <div class="card-container d-flex flex justify-content-around">
+                    <div class="card">
+                        <div class="front">
+                            <img src="assets/img/accueil_v2_Connecté.png" class="card-img-top" alt="Image d'un projet réaliser">
+                            <div class="card-body">
+                              <h5 class="card-title">Card title</h5>
+                              <p class="card-text m-3">Lorem ipsum dolor sit amet consectetur adipiscing elit himenaeos, accumsan ridiculus conubia convallis rhoncus egestas interdum taciti sociosqu, per maecenas congue ac malesuada facilisi suscipit.</p>
+                              <a href="#" class="btn-card">Go somewhere</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="back">
+
+                    </div>
+
+                    <div class="card">
+                        <div class="front">
+                            <img src="assets/img/accueil_v2_Connecté.png" class="card-img-top" alt="Image d'un projet réaliser">
+                            <div class="card-body">
+                              <h5 class="card-title">Card title</h5>
+                              <p class="card-text m-3">Lorem ipsum dolor sit amet consectetur adipiscing elit himenaeos, accumsan ridiculus conubia convallis rhoncus egestas interdum taciti sociosqu, per maecenas congue ac malesuada facilisi suscipit.</p>
+                              <a href="#" class="btn-card">Go somewhere</a>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+                    <div class="card">
+                        <div class="front">
+                            <img src="assets/img/accueil_v2_Connecté.png" class="card-img-top" alt="Image d'un projet réaliser">
+                            <div class="card-body">
+                              <h5 class="card-title">Card title</h5>
+                              <p class="card-text m-3">Lorem ipsum dolor sit amet consectetur adipiscing elit himenaeos, accumsan ridiculus conubia convallis rhoncus egestas interdum taciti sociosqu, per maecenas congue ac malesuada facilisi suscipit.</p>
+                              <a href="#" class="btn-card">Go somewhere</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="progress-container">
-                    <h4>CSS</h4>
-                    <div class="progress-bar">
-                        <span data-width="70%">70%</span>
-                    </div>
-                </div>
-                <div class="progress-container">
-                    <h4>JavaScript</h4>
-                    <div class="progress-bar">
-                        <span data-width="50%">50%</span>
-                    </div>
-                </div>
+
+
+
+
             </div>
 
 
